@@ -1,22 +1,26 @@
 Group lab work for code management
 
-Group Information:
-1 Sandeep Mantripragada
-2 Jyothi Sai Venkata Durga Pavan Kumar Menedi
+1. Group Information:
+   Sandeep Mantripragada
+   Jyothi Sai Venkata Durga Pavan Kumar Menedi
 
 
-GITHUB URL:
-https://github.com/Pavan0445/spring-cis-5755.git
+2. GITHUB URL:
+   https://github.com/Pavan0445/spring-cis-5755.
 
 
-Group work:
-Jyothi Sai Venkata Durga Pavan Kumar had done first python project and word document. (One hour)
-Sandeep has done second python project and readme file. (One hour)
+3. How your group work together (activities, hours used for each activity etc)?
+    Group work:
+    Jyothi Sai Venkata Durga Pavan Kumar had done first python project and word document. (One hour)
+    Sandeep has done second python project and readme file. (One hour)
 
 
-Project Introduction:
-We had created a project that synchronises the files from GitHub to cloud9 and cloud9 to GitHub. We have created two python files and one readme file in cloud9 and we synchronise the information into GitHub.
-Major Steps:
+4. Project Introduction:
+    We had created a project that synchronises the files from GitHub to cloud9 and cloud9 to GitHub. We have created two python files and one readme file in cloud9 and we synchronise the information into GitHub.
+
+
+5. Major Steps:
+
 1.Create a stack in aws then create repository in GitHub and create a new environment in aws cloud9.
 2.Create SSH key for git to clone the project.
 3. Create SSH key for git to clone the project
