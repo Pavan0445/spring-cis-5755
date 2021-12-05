@@ -3,11 +3,17 @@ Group lab work for code management
 Group Information:
 1 Sandeep Mantripragada
 2 Jyothi Sai Venkata Durga Pavan Kumar Menedi
+
+
 GITHUB URL:
 https://github.com/Pavan0445/spring-cis-5755.git
+
+
 Group work:
 Jyothi Sai Venkata Durga Pavan Kumar had done first python project and word document. (One hour)
 Sandeep has done second python project and readme file. (One hour)
+
+
 Project Introduction:
 We had created a project that synchronises the files from GitHub to cloud9 and cloud9 to GitHub. We have created two python files and one readme file in cloud9 and we synchronise the information into GitHub.
 Major Steps:
