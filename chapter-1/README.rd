@@ -6,7 +6,7 @@ Group lab work for code management
 
 
 2. GITHUB URL:
-   https://github.com/Pavan0445/spring-cis-5755.
+   https://github.com/Pavan0445/spring-cis-5755
 
 
 3. How your group work together (activities, hours used for each activity etc)?
